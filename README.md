@@ -1,5 +1,5 @@
 
-# Este projeto será tranformado em um sistema completo para hotelaria como menu e etc... Neste momento ele esta disponibilizado apenas para entrega do desafio conforme escopo solicitado pelo professor.
+# Este projeto será tranformado em um sistema completo para hotelaria com menu e etc... Neste momento ele esta disponibilizado apenas para entrega do desafio conforme escopo solicitado pelo professor.
 
 # DIO - Trilha .NET - Explorando a linguagem C#
 www.dio.me
