@@ -1,3 +1,6 @@
+
+# Esta Versão seria evoluidade para um sistema mais completo como menu e etc... Neste momento ela esta disponibilizada apenas para entrega do desafio conforme escopo solicitado pelo professor. C#
+
 # DIO - Trilha .NET - Explorando a linguagem C#
 www.dio.me
 
